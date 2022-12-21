@@ -1,0 +1,27 @@
+@font-face {
+    font-family: ZenDots;
+    src: url();
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(0, 0, 255);
+}
+#myh1{
+    color: red;
+    font-size: 100%;
+    text-align: center;
+
+}
+.header{
+    color: green;
+    font-size: 100px;
+    text-align: center;
+}
+.header2{
+    color: yellow;
+}
+.center{
+    text-align: center;
+}
